@@ -1,4 +1,3 @@
---[ u can change reason and type of abuse, very simple script
--- ex: game.Players:ReportAbuse(game.Players.LocalPlayer,"Type of abuse", "reason")
+--[ lmfao op now cuz report is working btw
 
 game.Players:ReportAbuse(game.Players,"Swearing", "bypassing slurs and harassing me")
